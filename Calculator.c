@@ -4,7 +4,7 @@
 
  {
 
- /*variable declaration*/
+ //variable declaration
 
  char operation;
 
@@ -14,7 +14,7 @@
 
  
 
- /*code for seeking user input*/
+ //code for seeking user input
 
  printf("Enter operator:");
 
@@ -34,7 +34,7 @@
 
  
 
- /*conditions*/
+ //conditions
 
  if(operation=='+')
 
@@ -64,7 +64,7 @@ results=num1/num2;
 
 }
 
-/*output */
+//output 
 
 printf("The Answer:%f",results);
 
